@@ -1,5 +1,5 @@
 # examples
-Basic Examples of CRUD Operations
+Very Basic Examples of CRUD Operations
 
 Hi I created a simple CRUD application.
 
